@@ -52,8 +52,8 @@ const TerminalDialog = ({ open, onOpenChange }: TerminalDialogProps) => {
         break;
       case 'about':
         response = `👤 About Me:
-  Name: Alya
-  Age: 20
+  Name: RizzLeR
+  Age: ??
   Profession: Graphic Design / Web Development`;
         break;
       case 'webinfo':
